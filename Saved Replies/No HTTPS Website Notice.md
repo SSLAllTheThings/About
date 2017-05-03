@@ -23,5 +23,4 @@ Please seriously consider adding HTTPS to your site today! Here are some resourc
 * [SSL Server Test](https://www.ssllabs.com/ssltest/)
 * [SSL Decoder](https://ssldecoder.org/)
 
-**<sub>I am not a bot or sponsored by anything. I just believe in a more secure web.</sub>**
-**<sub>Please contact @SSLAllTheThings for help or more info.</sub>**
+**<sub>I am not a bot or sponsored by anything. I just believe in a more secure web. Please contact me for help or more info.</sub>**
