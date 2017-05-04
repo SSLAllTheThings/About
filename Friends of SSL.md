@@ -4,4 +4,4 @@
 
 05-04-2017 [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher/issues/69) Changed a link to use HTTPS.
 
-**<sub>All entries are in order of acceptence. Date format: [m-d-Y](https://secure.php.net/manual/en/function.date.php).</sub>**
+**<sub>All entries are in order of newest to oldest. Date format: [m-d-Y](https://secure.php.net/manual/en/function.date.php).</sub>**
